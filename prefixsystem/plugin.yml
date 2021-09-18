@@ -1,0 +1,6 @@
+name: prefixsystem
+version: 1.5
+main: prefixsystemmain.Main
+authors: [RookDash]
+
+commands:
